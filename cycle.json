@@ -56,7 +56,7 @@
             "PMA_PORT": "3306",
             "PMA_USER": "admin"
           },
-          "privileged": "false",
+          "privileged": false,
           "rlimits": {
             "RLIMIT_NOFILE": {
               "hard": 1048576,
@@ -126,7 +126,7 @@
             "MYSQL_ROOT_PASSWORD": "root_admin",
             "MYSQL_USER": "admin"
           },
-          "privileged": "false",
+          "privileged": false,
           "rlimits": {
             "RLIMIT_NOFILE": {
               "hard": 1048576,
