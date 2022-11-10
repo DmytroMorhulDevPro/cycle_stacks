@@ -31,7 +31,6 @@
         },
         "deploy": {
           "instances": 1,
-          "strategy": "default",
           "constraints": {
             "node": {
               "tags": {
@@ -104,7 +103,6 @@
         },
         "deploy": {
           "instances": 1,
-          "strategy": "default",
           "constraints": {
             "node": {
               "tags": {
