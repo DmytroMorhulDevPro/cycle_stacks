@@ -36,9 +36,6 @@
               "tags": {
                 "any": [
                   "aws"
-                ],
-                "all": [
-                  "must_match_all"
                 ]
               }
             },
@@ -108,9 +105,6 @@
               "tags": {
                 "any": [
                   "aws"
-                ],
-                "all": [
-                  "must_match_all"
                 ]
               }
             },
