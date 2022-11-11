@@ -17,7 +17,7 @@
       "annotations": {
         "revision": "1",
         "responsible": "q_bot",
-        "perpose": "test"
+        "purpose": "test"
       },
       "stateful": false,
       "config": {
@@ -89,7 +89,7 @@
       "annotations": {
         "revision": "1",
         "responsible": "db_bot",
-        "perpose": "data_store"
+        "purpose": "data_store"
       },
       "stateful": true,
       "config": {
