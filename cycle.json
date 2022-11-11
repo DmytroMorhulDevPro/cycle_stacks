@@ -126,17 +126,17 @@
             }
           },
           "integrations": {}
+        }
+      },
+      "volumes": {
+        "read_only": false,
+        "local": {
+          "max_size": "2G",
+          "storage_pool": true
         },
-        "volumes": {
-          "read_only": false,
-          "local": {
-            "max_size": "2G",
-            "storage_pool": true
-          },
-          "destination": "/var/lib/mysql"
-        },
-        "deprecate": false
-      }
+        "destination": "/var/lib/mysql"
+      },
+      "deprecate": false
     }
   }
 }
