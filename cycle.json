@@ -130,7 +130,7 @@
         "volumes:": {},
         "deprecate": false
       },
-      "volume": {
+      "volumes": {
         "read_only": false,
         "local": {
           "max_size": "2G",
