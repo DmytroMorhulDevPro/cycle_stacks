@@ -129,6 +129,14 @@
         },
         "volumes:": {},
         "deprecate": false
+      },
+      "volume": {
+        "read_only": false,
+        "local": {
+          "max_size": "2G",
+          "storage_pool": true
+        },
+        "destination": "/var/lib/mysql",
       }
     }
   }
