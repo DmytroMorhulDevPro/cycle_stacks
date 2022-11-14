@@ -133,7 +133,7 @@
           "read_only": false,
           "local": {
             "max_size": "2G",
-            "storage_pool": true
+            "storage_pool": false
           },
           "destination": "/var/lib/mysql"
         }
